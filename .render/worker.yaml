@@ -1,0 +1,4 @@
+type: worker
+name: stat-arb-paperbot
+env: python
+startCommand: python livestatarb.py
